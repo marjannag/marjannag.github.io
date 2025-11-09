@@ -1615,7 +1615,7 @@ th {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: #ffffff;
+    color: #d4aa96;
     text-decoration: none
 }
 
@@ -1766,6 +1766,8 @@ th {
     background: #7a8288;
     border-radius: 4px
 }
+
+/* !come back here */
 
 .nav__list .active:hover {
     color: #fff
