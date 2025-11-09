@@ -1358,7 +1358,7 @@ th {
     animation: intro 0.3s both;
     -webkit-animation-delay: 0.15s;
     animation-delay: 0.15s;
-    background-color: #00a3ee;
+    background-color: #d4aa96;
     z-index: 20
 }
 
@@ -1608,7 +1608,7 @@ th {
 .greedy-nav {
     position: relative;
     min-width: 250px;
-    background: #00a3ee;
+    background: #d4aa96;
 }
 
 .greedy-nav a {
