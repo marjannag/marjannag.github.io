@@ -1696,7 +1696,8 @@ th {
 .greedy-nav .hidden-links a {
     margin: 0;
     padding: 10px 20px;
-    font-size: 1em
+    font-size: 1em;
+    color: #d4aa96;
 }
 
 .greedy-nav .hidden-links a:hover {
