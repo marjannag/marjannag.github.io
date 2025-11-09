@@ -1615,7 +1615,7 @@ th {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: #d4aa96;
+    color: #f2f3f3;
     text-decoration: none
 }
 
@@ -1804,7 +1804,7 @@ th {
 }
 
 .toc .nav__title {
-    color: #fff;
+    color: #d4aa96;
     font-size: .75em;
     background: #7a8288;
     border-top-left-radius: 4px;
