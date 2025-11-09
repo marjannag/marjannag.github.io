@@ -1,8 +1,0 @@
-source:      .
-destination: ./_site
-includes:    ./_includes
-url: "https://marjannag.github.io"
-
-collections:
-  projects:
-    output: true
